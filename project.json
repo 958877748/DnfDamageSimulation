@@ -1,0 +1,8 @@
+{
+  "engine": "cocos-creator-js",
+  "packages": "packages",
+  "name": "DnfDamageSimulation",
+  "id": "ed0c7f76-75fc-4758-9638-a78f6835534e",
+  "version": "2.4.5",
+  "isNew": false
+}
